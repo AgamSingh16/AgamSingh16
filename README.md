@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AgamSingh16
-- 👀 I’m interested in beatboxing
-- 🌱 I’m currently learning python
+- 👀 I’m interested in homelabs and Linux related stuff
+- 🌱 I’m currently learning Java, Javascript, React
 - 💞️ I’m looking to collaborate on python project for beginner or intermediate level
 - 📫 How to reach me ...
 
