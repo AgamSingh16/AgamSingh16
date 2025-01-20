@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AgamSingh16
 - 👀 I’m interested in homelabs and Linux related stuff
 - 🌱 I’m currently learning Java, Javascript, React
-- 💞️ I’m looking to collaborate on python project for beginner or intermediate level
+- 💞️ I’m looking to collaborate on java and javascript project for beginner or intermediate level
 - 📫 How to reach me ...
 
 <!---
